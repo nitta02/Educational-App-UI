@@ -1,8 +1,8 @@
 // ignore_for_file: prefer_const_constructors, unused_element, avoid_print, prefer_const_literals_to_create_immutables, avoid_unnecessary_containers, unused_import
 
-import 'package:educational_app/dashboard.dart';
+import 'package:educational_app/screens/dashboard.dart';
 import 'package:educational_app/elements/items.dart';
-import 'package:educational_app/homeScreen.dart';
+import 'package:educational_app/screens/homeScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';

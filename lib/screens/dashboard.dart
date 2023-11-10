@@ -1,5 +1,5 @@
 // ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables, duplicate_ignore, sized_box_for_whitespace, avoid_unnecessary_containers, unused_element, non_constant_identifier_names, avoid_print
-import 'package:educational_app/seemore.dart';
+import 'package:educational_app/screens/seemore.dart';
 import 'package:flutter/material.dart';
 
 class DashBoardPage extends StatefulWidget {

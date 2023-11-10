@@ -1,6 +1,6 @@
 // ignore_for_file: prefer_const_constructors, duplicate_ignore, sized_box_for_whitespace, avoid_unnecessary_containers, prefer_const_literals_to_create_immutables, unused_import
 
-import 'package:educational_app/dashboard.dart';
+import 'package:educational_app/screens/dashboard.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {

@@ -1,6 +1,6 @@
 // ignore_for_file: file_names, prefer_const_constructors, avoid_unnecessary_containers, unused_field, prefer_final_fields
 
-import 'package:educational_app/homeScreen.dart';
+import 'package:educational_app/screens/homeScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
